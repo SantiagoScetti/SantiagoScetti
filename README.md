@@ -22,13 +22,13 @@ Construyo sistemas de IA y de datos que usan personas reales, y me importa que *
 
 ### Proyectos destacados
 
-| | Proyecto | Qué es | Stack |
-|---|---|---|---|
-| <img src="https://api.iconify.design/lucide/hospital.svg?color=%2306b6d4" width="20" height="20" alt="" /> | **Sistema del Servicio Social**, Hospital Escuela | App en producción para el registro y los reportes oficiales del servicio. Seguridad con Row Level Security, auditoría con triggers y migración de 3.852 registros sin pérdidas. *Código privado: sistema con datos sensibles.* | Next.js · TypeScript · Supabase · PostgreSQL |
-| <img src="https://api.iconify.design/lucide/landmark.svg?color=%2306b6d4" width="20" height="20" alt="" /> | **[Lupa Cívica](https://licenciadoshackaton2026.vercel.app)**, Hackatón 2026 | Chatbot RAG que explica la actividad legislativa de Corrientes en lenguaje simple y cita la fuente oficial. Hice el backend: scraper, búsqueda y fallback entre proveedores de IA. | Next.js · Postgres full-text · Claude |
-| <img src="https://api.iconify.design/lucide/chart-line.svg?color=%2306b6d4" width="20" height="20" alt="" /> | **Validador de IA para indicadores económicos** | Pipeline que sigue 8 indicadores oficiales (INDEC, BCRA) y descarta automáticamente los textos de IA que inventan cifras. | Python · pandas · GitHub Actions · Gemini/Groq |
-| <img src="https://api.iconify.design/lucide/library-big.svg?color=%2306b6d4" width="20" height="20" alt="" /> | **Buscador semántico sobre libros** | RAG sobre más de 17.000 fragmentos con embeddings locales y pgvector. | Python · SentenceTransformers · pgvector · Streamlit |
-| <img src="https://api.iconify.design/lucide/ship.svg?color=%2306b6d4" width="20" height="20" alt="" /> | **[ML end-to-end](https://github.com/SantiagoScetti/titanicBackend)** | EDA → modelo de clasificación → API REST → interfaz web. | scikit-learn · FastAPI · React |
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| <img src="https://api.iconify.design/lucide/hospital.svg?color=%2306b6d4" width="18" height="18" alt="" />&nbsp;**Sistema del Servicio Social**, Hospital Escuela | App en producción para el registro y los reportes oficiales del servicio. Seguridad con Row Level Security, auditoría con triggers y migración de 3.852 registros sin pérdidas. *Código privado: sistema con datos sensibles.* | Next.js · TypeScript · Supabase · PostgreSQL |
+| <img src="https://api.iconify.design/lucide/landmark.svg?color=%2306b6d4" width="18" height="18" alt="" />&nbsp;**[Lupa Cívica](https://licenciadoshackaton2026.vercel.app)**, Hackatón 2026 | Chatbot RAG que explica la actividad legislativa de Corrientes en lenguaje simple y cita la fuente oficial. Hice el backend: scraper, búsqueda y fallback entre proveedores de IA. | Next.js · Postgres full-text · Claude |
+| <img src="https://api.iconify.design/lucide/chart-line.svg?color=%2306b6d4" width="18" height="18" alt="" />&nbsp;**Validador de IA para indicadores económicos** | Pipeline que sigue 8 indicadores oficiales (INDEC, BCRA) y descarta automáticamente los textos de IA que inventan cifras. | Python · pandas · GitHub Actions · Gemini/Groq |
+| <img src="https://api.iconify.design/lucide/library-big.svg?color=%2306b6d4" width="18" height="18" alt="" />&nbsp;**Buscador semántico sobre libros** | RAG sobre más de 17.000 fragmentos con embeddings locales y pgvector. | Python · SentenceTransformers · pgvector · Streamlit |
+| <img src="https://api.iconify.design/lucide/ship.svg?color=%2306b6d4" width="18" height="18" alt="" />&nbsp;**[ML end-to-end](https://github.com/SantiagoScetti/titanicBackend)** | EDA → modelo de clasificación → API REST → interfaz web. | scikit-learn · FastAPI · React |
 
 ### Tecnologías
 
