@@ -13,7 +13,7 @@
 
 ### Hola, soy Santi
 
-Construyo sistemas de IA y de datos que usan personas reales, y me importa que **no se rompan y no inventen**.
+Desarrollo software con datos e IA, desde la base de datos hasta la interfaz.
 
 - <img src="https://api.iconify.design/lucide/hospital.svg?color=%23a78bfa" width="16" height="16" alt="" /> Mantengo en producción el sistema del **Servicio Social del Hospital Escuela** de Corrientes
 - <img src="https://api.iconify.design/lucide/bot.svg?color=%23a78bfa" width="16" height="16" alt="" /> Desarrollo automatizaciones con IA para un **think tank**: pipelines de datos oficiales y textos de IA validados antes de publicarse
